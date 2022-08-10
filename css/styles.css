@@ -1,5 +1,23 @@
 .column {
   float: left;
   width: 350px;
+}
 
+.puppy {
+  width: 50%;
+  border: solid black;
+  
+  
+}
+
+.llama {
+
+}
+
+.kitten {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
 }

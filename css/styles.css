@@ -1,5 +1,13 @@
+body {
+  background-color: aliceblue;
+}
+
+h1 { 
+  text-align: center;
+  color: sienna;
+}
 .column {
-  width: auto;
+  width: 600px;
   float: left;
 }
 
@@ -22,6 +30,8 @@
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 10%;
+  margin-right 10%;
   width: 50%;
   box-sizing: border-box;
 }
@@ -34,11 +44,11 @@
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
   width: 50%;
   box-sizing: border-box;
- 
-
-}
+ }
 
 .kitten {
   border: 5px dashed rgb(255, 0, 170);
